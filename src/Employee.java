@@ -1,7 +1,7 @@
 
 public class Employee {
 	
-	private String fullName;
+    private String fullName;
     private int salary;
     private int experience;
     
